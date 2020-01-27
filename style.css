@@ -1,0 +1,15 @@
+body{
+
+    background-color: mediumaquamarine;
+    background-image: url("https://wallpapercave.com/wp/wp4251909.jpg");
+
+}
+
+.boxes{
+    background-color: white;
+    width: 15em;
+    height: 15em;
+    margin: 5px;
+    display: inline-block;
+
+}
